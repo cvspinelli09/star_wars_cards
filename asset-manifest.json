@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/star_wars_cards/static/css/main.7c43ac9d.chunk.css",
-    "main.js": "/star_wars_cards/static/js/main.7de22686.chunk.js",
-    "main.js.map": "/star_wars_cards/static/js/main.7de22686.chunk.js.map",
+    "main.css": "/star_wars_cards/static/css/main.afe35a5d.chunk.css",
+    "main.js": "/star_wars_cards/static/js/main.2294964d.chunk.js",
+    "main.js.map": "/star_wars_cards/static/js/main.2294964d.chunk.js.map",
     "runtime-main.js": "/star_wars_cards/static/js/runtime-main.46c5dc64.js",
     "runtime-main.js.map": "/star_wars_cards/static/js/runtime-main.46c5dc64.js.map",
     "static/css/2.eb45ad44.chunk.css": "/star_wars_cards/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.6687ac5b.chunk.js": "/star_wars_cards/static/js/2.6687ac5b.chunk.js",
-    "static/js/2.6687ac5b.chunk.js.map": "/star_wars_cards/static/js/2.6687ac5b.chunk.js.map",
+    "static/js/2.c8b07a4f.chunk.js": "/star_wars_cards/static/js/2.c8b07a4f.chunk.js",
+    "static/js/2.c8b07a4f.chunk.js.map": "/star_wars_cards/static/js/2.c8b07a4f.chunk.js.map",
     "index.html": "/star_wars_cards/index.html",
-    "precache-manifest.d1067523fa5a3bba88f9bd25ef7d77f9.js": "/star_wars_cards/precache-manifest.d1067523fa5a3bba88f9bd25ef7d77f9.js",
+    "precache-manifest.cea09af099c27bff2bd2292c25165e1d.js": "/star_wars_cards/precache-manifest.cea09af099c27bff2bd2292c25165e1d.js",
     "service-worker.js": "/star_wars_cards/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/star_wars_cards/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.7c43ac9d.chunk.css.map": "/star_wars_cards/static/css/main.7c43ac9d.chunk.css.map",
-    "static/js/2.6687ac5b.chunk.js.LICENSE": "/star_wars_cards/static/js/2.6687ac5b.chunk.js.LICENSE",
+    "static/css/main.afe35a5d.chunk.css.map": "/star_wars_cards/static/css/main.afe35a5d.chunk.css.map",
+    "static/js/2.c8b07a4f.chunk.js.LICENSE": "/star_wars_cards/static/js/2.c8b07a4f.chunk.js.LICENSE",
     "static/media/C3-PO.jpg": "/star_wars_cards/static/media/C3-PO.3153ea79.jpg",
     "static/media/R2-D2.jpg": "/star_wars_cards/static/media/R2-D2.db5c926a.jpg",
     "static/media/App.css": "/star_wars_cards/static/media/SEGA.12a3db8b.woff",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.46c5dc64.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.6687ac5b.chunk.js",
-    "static/css/main.7c43ac9d.chunk.css",
-    "static/js/main.7de22686.chunk.js"
+    "static/js/2.c8b07a4f.chunk.js",
+    "static/css/main.afe35a5d.chunk.css",
+    "static/js/main.2294964d.chunk.js"
   ]
 }
